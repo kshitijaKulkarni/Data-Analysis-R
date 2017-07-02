@@ -1,5 +1,4 @@
-# Data-Analysis-R
-Decision Tree and K-means Clustering using R and Tableau
+# Decision Tree and K-means Clustering using R and Tableau
 The objective of project is to get a hands on experience on Decision Tree and K-means clustering analysis using R and visualizing results through Tableau.
 Below are the objectives of the exercise
 1) Data retrieval
